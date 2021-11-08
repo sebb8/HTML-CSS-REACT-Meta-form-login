@@ -10,3 +10,9 @@
 1. folder [meta]
 2. npm install
 3. npm start
+
+> SCREEN
+> 
+    - desktop [Yes]
+    - responsive [Yes]
+
